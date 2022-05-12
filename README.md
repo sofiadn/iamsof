@@ -1,5 +1,4 @@
 <p align="center">
-  
     <img alt="Sofia" src="https://raw.githubusercontent.com/sofiadn/iamsof/main/src/images/img.jpeg" width="100" />
   </a>
 </p>
