@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Sofia" src="https://raw.githubusercontent.com/sofiadn/iamsof/main/src/images/img.jpeg" width="100" />
+    <img alt="Sofia" src="https://raw.githubusercontent.com/sofiadn/iamsof/main/src/images/img.png" width="100" />
   </a>
 </p>
 <h1 align="center">
