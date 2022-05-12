@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  
+    <img alt="Sofia" src="https://raw.githubusercontent.com/sofiadn/iamsof/main/src/images/img.jpeg" width="100" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal TypeScript starter
+  Web app built with gatsby & hosted with netlify 
 </h1>
 
-## 🚀 Quick start
+## 🚀 Gatsby Quick start
 
 1.  **Create a Gatsby site.**
 
@@ -47,8 +47,6 @@
 
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
 
-## 🚀 Quick start (Gatsby Cloud)
+## 🚀 Netlify Quick start 
 
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
+Deployed on [Netlify](https://docs.netlify.com/)
